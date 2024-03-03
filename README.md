@@ -11,14 +11,6 @@
   <img width="460" height="300" src="https://github.com/fawazahmed0/currency-api/raw/1/money.jpg">
 </p>
 
-[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/currency-api/badge)](https://www.jsdelivr.com/package/gh/fawazahmed0/currency-api)
-[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/currency-api/badge/rank)](https://www.jsdelivr.com/package/gh/fawazahmed0/currency-api)
-[![Fetch-Currencies](https://github.com/fawazahmed0/currency-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/currency-api/actions/workflows/run.yml)
-
-
-
-**In the name of God, who has guided me to do this work**
-
 
 **Features:**
 - Free & Blazing Fast response
@@ -73,16 +65,4 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 - `/currencies/{currencyCode}/{currencyCode}` <br>
 > Get the currency value for EUR to JPY:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json")
-
-### To Add New Crypto Currency: [See This](https://github.com/fawazahmed0/currency-api/issues/41)
-
-### Any Issues: [Raise here](https://github.com/fawazahmed0/currency-api/issues/new "Raise here")
-
-Please Star this repo by clicking on [:star: button](#) above [:arrow_upper_right:](#)
-
-<br>
-<br>
-<br>
-
-[:pencil2:*Improve this page*](https://github.com/fawazahmed0/currency-api/edit/1/README.md)
 
